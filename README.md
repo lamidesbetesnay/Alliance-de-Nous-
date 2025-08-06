@@ -12,6 +12,11 @@ apt-get -install git
 
 aptitude -install git
 
+then 
+
+apt -update &&
+apt -upgrade
+
 ]
 
 README.md
