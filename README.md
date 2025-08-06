@@ -3,6 +3,17 @@ Dépôt data pour IA
 
 get copy in your device
 
+[if git not installed,
+terminal linux: 
+
+apt-install git
+
+apt-get -install git
+
+aptitude -install git
+
+]
+
 README.md
 
 https://github.com/lamidesbetesnay/Alliance-de-Nous-.git
